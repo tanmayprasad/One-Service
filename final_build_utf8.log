@@ -1,0 +1,29 @@
+﻿  Determining projects to restore...
+C:\Program Files\dotnet\packs\Microsoft.Maui.Sdk\9.0.120\Sdk\BundledVersions.targets(85,5): warning MA002: Starting with .NET 8, setting  <UseMaui>true</UseMaui>  does not automatically include NuGet package references in your project.  Update your project by including this item:  <PackageReference Include="Microsoft.Maui.Controls" Version="9.0.120" />.  You can skip this warning by setting  <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>  in your project file. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+  All projects are up-to-date for restore.
+C:\Program Files\dotnet\packs\Microsoft.Maui.Sdk\9.0.120\Sdk\BundledVersions.targets(85,5): warning MA002: Starting with .NET 8, setting  <UseMaui>true</UseMaui>  does not automatically include NuGet package references in your project.  Update your project by including this item:  <PackageReference Include="Microsoft.Maui.Controls" Version="9.0.120" />.  You can skip this warning by setting  <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>  in your project file. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+  P2PDaemon -> D:\Manager\One Service\bin\Debug\net9.0-android\P2PDaemon.dll
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: resource mipmap/appicon (aka com.p2p.daemon:mipmap/appicon) not found. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260:  [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: This error is likely caused by an issue with the AndroidManifest.xml file or an Android manifest generation attribute in a source code file. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: resource mipmap/appicon_round (aka com.p2p.daemon:mipmap/appicon_round) not found. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260:  [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: This error is likely caused by an issue with the AndroidManifest.xml file or an Android manifest generation attribute in a source code file. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\35.0.105\tools\Xamarin.Android.Aapt2.targets(214,3): error APT2067: failed processing manifest. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\35.0.105\tools\Xamarin.Android.Aapt2.targets(214,3): error APT2067:  [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+
+Build FAILED.
+
+C:\Program Files\dotnet\packs\Microsoft.Maui.Sdk\9.0.120\Sdk\BundledVersions.targets(85,5): warning MA002: Starting with .NET 8, setting  <UseMaui>true</UseMaui>  does not automatically include NuGet package references in your project.  Update your project by including this item:  <PackageReference Include="Microsoft.Maui.Controls" Version="9.0.120" />.  You can skip this warning by setting  <SkipValidateMauiImplicitPackageReferences>true</SkipValidateMauiImplicitPackageReferences>  in your project file. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: resource mipmap/appicon (aka com.p2p.daemon:mipmap/appicon) not found. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260:  [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: This error is likely caused by an issue with the AndroidManifest.xml file or an Android manifest generation attribute in a source code file. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: resource mipmap/appicon_round (aka com.p2p.daemon:mipmap/appicon_round) not found. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260:  [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+D:\Manager\One Service\Platforms\Android\AndroidManifest.xml : error APT2260: This error is likely caused by an issue with the AndroidManifest.xml file or an Android manifest generation attribute in a source code file. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\35.0.105\tools\Xamarin.Android.Aapt2.targets(214,3): error APT2067: failed processing manifest. [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+C:\Program Files\dotnet\packs\Microsoft.Android.Sdk.Windows\35.0.105\tools\Xamarin.Android.Aapt2.targets(214,3): error APT2067:  [D:\Manager\One Service\P2PDaemon.csproj::TargetFramework=net9.0-android]
+    1 Warning(s)
+    3 Error(s)
+
+Time Elapsed 00:00:01.25
